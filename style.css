@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.green-text {
+  font-weight: 700;
+  color: #557760;
+}
+
+.title-1 {
+  text-align: center;
+  margin-top: 50px;
+  font-weight: 400;
+  color: #2d2d2d;
+}
+
+.title-2 {
+  margin-top: 100px;
+  margin-left: 50px;
+  font-weight: 400;
+  color: #557760;
+}
+
+.kaktus-name {
+  margin-top: 100px;
+  margin-left: 50px;
+  font-size: 22px;
+  font-weight: 400;
+  color: #557760;
+}
+
+.list {
+  margin-top: 25px;
+  margin-left: 75px;
+}
+
+.list-el {
+  padding: 5px;
+  color: #2d2d2d;
+}
+
+.list-link {
+  text-decoration: none;
+  color: #2d2d2d;
+}
+
+.list-link:hover {
+  text-decoration: underline;
+}
+
+.kaktus-description {
+  margin-top: 25px;
+  margin-left: 50px;
+  text-align: justify;
+  width: 550px;
+  color: #2d2d2d;
+}
+
+.kaktus-price {
+  margin-top: 10px;
+  margin-left: 50px;
+  font-weight: 700;
+  color: #ef503b;
+}
+
+.kaktus-photo {
+  margin-top: 25px;
+  margin-left: 50px;
+  width: 550px;
+  border-radius: 25px;
+}
+
+.contact-info {
+  margin-top: 10px;
+  margin-left: 50px;
+  color: #2d2d2d;
+}
+
+#anchor-up {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#anchor-up-link {
+  text-decoration: none;
+  color: #557760;
+}
+
+#anchor-up-link:hover {
+  text-decoration: underline;
+}
